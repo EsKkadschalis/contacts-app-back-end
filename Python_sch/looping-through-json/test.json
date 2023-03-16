@@ -1,0 +1,20 @@
+{
+    "qwerty" : [
+    {
+        "Name": "Daniel",
+        "Age": "16"
+    },
+    {
+        "Name": "Sandris",
+        "Age": "32"
+    },
+    {
+        "Name": "Miks",
+        "Age": "13"
+    },
+    {
+        "Name": "Ansis",
+        "Age": "88"
+    }
+    ]
+}
